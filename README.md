@@ -1,3 +1,3 @@
 # Moskitia
-Pesca Artesandal de medusa bala de  cañon y robalo 
+Zona de pesca artesandal de medusa bala de cañon y robalo 
 mapa interactivo web
