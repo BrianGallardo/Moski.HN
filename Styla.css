@@ -3,4 +3,16 @@ html {
     url("https://image.freepik.com/foto-gratis/fondo-beige-envejecido_53876-88685.jpg") no-repeat center fixed;
     background-size: cover;
     }
+header {
+    background-color: transparent;
+    border: 0.1px solid rgba(0, 0, 0, 0);
+    padding: 10px;
+    }
 
+    h1 {
+    text-align: center;
+    margin: auto;
+    background-color: transparent;
+    border: 0.1px solid rgba(0, 0, 0, 0);
+    padding: 0.5px;
+    }
