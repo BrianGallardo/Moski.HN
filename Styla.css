@@ -72,21 +72,21 @@ a:hover{
 
 /*TITULO PRINCIPAL*/
 .TT{
-  background: #EAF8FC;
+  background: #E0F4FB;
   color: #26373D;
   margin: 0 auto;
 }
 
 /*PARRAFOS ESPECIFICOS*/
 .PP p{
-  background: #EAF8FC;
+  background: #E0F4FB;
   color: #26373D;
   margin: 0 auto;
   text-align: justified;
 }
 
 .PP_1 p{
-  background: #EAF8FC;
+  background: #E0F4FB;
   color: #26373D;
   margin: 0 auto;
   text-align: center;
