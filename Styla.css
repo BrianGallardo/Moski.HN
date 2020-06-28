@@ -1,12 +1,11 @@
 html {
-    background:
-      #F4FBFD;
+    background: #F4FBFD;
     background-size: cover;
     }
 
 body {
     font-family: Amethysta,'Times New Roman',serif;
-    background-color: transparent;
+    background-color: #F4FBFD;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 10px;
     }
@@ -14,7 +13,7 @@ body {
 
 head {
     font-family: Amethysta,'Times New Roman',serif;
-    background-color: transparent;
+    background-color: #F4FBFD;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 10px;
     }
