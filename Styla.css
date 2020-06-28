@@ -1,5 +1,5 @@
 html {
-    background: #1E2C30;
+    background: #F4FBFD;
     background-size: cover;
     }
 
@@ -32,7 +32,7 @@ head {
     text-align: center;
     font-size: 13pt;
     margin: auto;
-    background-color: transparent;
+    background-color: #E0F4FB;
     color: #26373D;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 0.5px;
@@ -43,7 +43,7 @@ head {
     text-align: justified;
     font-size: 13pt;
     margin: auto;
-    background-color: transparent;
+    background-color: #E0F4FB;
     color: #26373D;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 0.5px;
@@ -79,7 +79,7 @@ a:hover{
 
 /*PARRAFOS ESPECIFICOS*/
 .PP p{
-  background: #E0F4FB;
+  background: #EAF8FC;
   color: #26373D;
   margin: 0 auto;
   text-align: justified;
