@@ -1,16 +1,26 @@
 html {
-    background: 
-    url("") no-repeat center fixed;
+    background:
+      #F4FBFD;
     background-size: cover;
     }
 
+body {
+    font-family: Amethysta,'Times New Roman',serif;
+    background-color: transparent;
+    border: 0.1px solid rgba(0, 0, 0, 0);
+    padding: 10px;
+    }
+
+
 head {
+    font-family: Amethysta,'Times New Roman',serif;
     background-color: transparent;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 10px;
     }
 
     h1 {
+    font-family: Amethysta,'Times New Roman',serif;
     text-align: center;
     margin: auto;
     background-color: transparent;
@@ -19,15 +29,136 @@ head {
     }
 
     h2 {
+    font-family: Amethysta,'Times New Roman',serif;
     text-align: center;
+    font-size: 13pt;
     margin: auto;
     background-color: transparent;
+    color: #26373D;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 0.5px;
     }
 
-body {
+    h3 {
+    font-family: Amethysta,'Times New Roman',serif;
+    text-align: justified;
+    font-size: 13pt;
+    margin: auto;
     background-color: transparent;
+    color: #26373D;
     border: 0.1px solid rgba(0, 0, 0, 0);
-    padding: 10px;
+    padding: 0.5px;
     }
+
+    p {
+    font-family: Amethysta,'Times New Roman',serif;
+    text-align: justified;
+    font-size: 12pt;
+    margin: auto;
+    background-color: transparent;
+    color: #26373D;
+    border: 0.1px solid rgba(0, 0, 0, 0);
+    padding: 0.5px;
+    font-kerning: normal;
+    }
+
+a:hover{
+  color: blue;
+  font-weight: bold;
+}
+
+.ascii{
+  
+}
+
+/*TITULO PRINCIPAL*/
+.TT{
+  background: #EAF8FC;
+  color: #26373D;
+  margin: 0 auto;
+}
+
+/*PARRAFOS ESPECIFICOS*/
+.PP p{
+  background: #EAF8FC;
+  color: #26373D;
+  margin: 0 auto;
+  text-align: justified;
+}
+
+.PP_1 p{
+  background: #EAF8FC;
+  color: #26373D;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/*por si hay alteraciones*/
+.PP p{
+  color: #26373D;
+}
+
+/*BOTONES*/
+.BT {
+  color: white;
+  background: #4D6E7A;
+  text-align: center;
+  display: inline;
+  line-height: 30px;
+}
+
+#B {
+  float: top;
+  padding: 3px solid;
+  margin: 0 auto;
+  margin-left: 10px;
+  border: 3px solid #5C8492;
+  display: inline;
+}
+/*Otros Botones*/
+#B_2{
+  float: top;
+  padding: 3px solid;
+  margin: 0 auto;
+  margin-left: 10px;
+  border: 3px solid #5C8492;
+  display: inline;
+}
+
+#B_3{
+  float: top;
+  padding: 3px solid;
+  margin: 0 auto;
+  margin-left: 10px;
+  border: 3px solid #5C8492;
+  display: inline;
+  
+}
+/*LOGOS*/
+.LOG img{
+  float: top;
+  padding: 3px;
+  border: 1px solid #5C8492;
+  width: auto;
+  height: auto;
+  max-height: 30px;
+  max-width: 55%;
+  margin: 0 auto;
+  background: transparent;
+  display: inline;
+}
+
+/*IMAGENES*/
+.IM img{
+  float: top;
+  padding: 1px;
+  border: 1px solid #5C8492;
+  width: 100%;
+  height: auto;
+  max-height: 520px;
+  max-width: 605px;
+  margin: 0 auto;
+  background: transparent;
+  display: inline;
+  
+}
