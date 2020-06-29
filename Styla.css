@@ -23,12 +23,12 @@ head {
     text-align: center;
     font-size: 13pt;
     margin: 0 auto;
-    width: 35%;
+    width: 40%;
     height: auto;
     background-color: #4D6E7A;
     color: #ffffff;
     border: 0.1px solid rgba(0, 0, 0, 0);
-    padding: 8px;
+    padding: 5px;
     border-radius: 20px;
     }
 
@@ -37,8 +37,10 @@ head {
     text-align: center;
     font-size: 12pt;
     margin: 0 auto;
-    background-color: #E0F4FB;
-    color: #26373D;
+    width: 18%;
+    height: auto;
+    background-color: #4D6E7A;
+    color: #ffffff;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 0.5px;
     border-radius: 20px;
@@ -46,13 +48,13 @@ head {
 
     h3 {
     font-family: Amethysta,'Times New Roman',serif;
-    text-align: justified;
+    text-align: center;
     font-size: 9pt;
     margin: 0 auto;
-    width: 35%;
+    width: 16%;
     height: auto;
-    background-color: #E0F4FB;
-    color: #26373D;
+    background-color: #4D6E7A;
+    color: #ffffff;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 0.5px;
     border-radius: 20px;
