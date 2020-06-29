@@ -135,7 +135,7 @@ button{
   margin: 0 auto;
   margin-left: 1px;
   border: 0px solid #5C8492;
-  display: inline-block;
+  display: inline;
   cursor: pointer;
 }
 /*Otros Botones*/
