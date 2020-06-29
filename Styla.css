@@ -21,44 +21,48 @@ head {
     h1 {
     font-family: Amethysta,'Times New Roman',serif;
     text-align: center;
-    margin: auto;
+    margin: 0 auto;
     background-color: transparent;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 0.5px;
+    border-radius: 20px;
     }
 
     h2 {
     font-family: Amethysta,'Times New Roman',serif;
     text-align: center;
     font-size: 13pt;
-    margin: auto;
+    margin: 0 auto;
     background-color: #E0F4FB;
     color: #26373D;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 0.5px;
+    border-radius: 20px;
     }
 
     h3 {
     font-family: Amethysta,'Times New Roman',serif;
     text-align: justified;
     font-size: 13pt;
-    margin: auto;
+    margin: 0 auto;
     background-color: #E0F4FB;
     color: #26373D;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 0.5px;
+    border-radius: 20px;
     }
 
     p {
     font-family: Amethysta,'Times New Roman',serif;
     text-align: justified;
     font-size: 12pt;
-    margin: auto;
+    margin: 0 auto;
     background-color: transparent;
     color: #26373D;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 0.5px;
     font-kerning: normal;
+    border-radius: 5px;
     }
 
 a:hover{
@@ -124,7 +128,7 @@ button{
   display: inline;
   line-height: 20px;
   border-width: 3px;
-  border-radius: 200px;
+  border-radius: 20px;
   cursor: pointer;
   font-size: 10pt;
 }
@@ -137,6 +141,8 @@ button{
   border: 0px solid #5C8492;
   display: inline;
   cursor: pointer;
+  border-radius: 20px;
+  box-shadow: 0px 0px 8px rgba(0,0,0,0.4);
 }
 /*Otros Botones*/
 #B_2{
