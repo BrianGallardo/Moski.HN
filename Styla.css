@@ -108,9 +108,10 @@ button{
   float: top;
   padding: 2px;
   border: -1px solid #5C8492;
+  border-radius: 20px;
   width: auto;
   height: auto;
-  max-height: 45px;
+  max-height: 35px;
   margin: 0 auto;
   background: #5C8492;
   display: inline;
@@ -121,8 +122,11 @@ button{
   background: #4D6E7A;
   text-align: center;
   display: inline;
-  line-height: 35px;
-  border-width: 5px;
+  line-height: 20px;
+  border-width: 3px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 10pt;
 }
 
 #B {
@@ -131,7 +135,8 @@ button{
   margin: 0 auto;
   margin-left: 1px;
   border: 0px solid #5C8492;
-  display: inline;
+  display: inline-block;
+  cursor: pointer;
 }
 /*Otros Botones*/
 #B_2{
