@@ -104,20 +104,33 @@ a:hover{
 }
 
 /*BOTONES*/
+button{
+  float: top;
+  padding: 2px;
+  border: -1px solid #5C8492;
+  width: auto;
+  height: auto;
+  max-height: 45px;
+  margin: 0 auto;
+  background: #5C8492;
+  display: inline;
+}
+
 .BT {
   color: white;
   background: #4D6E7A;
   text-align: center;
   display: inline;
-  line-height: 30px;
+  line-height: 35px;
+  border-width: 5px;
 }
 
 #B {
   float: top;
   padding: 3px solid;
   margin: 0 auto;
-  margin-left: 10px;
-  border: 3px solid #5C8492;
+  margin-left: 1px;
+  border: 0px solid #5C8492;
   display: inline;
 }
 /*Otros Botones*/
@@ -165,5 +178,4 @@ a:hover{
   margin: 0 auto;
   background: transparent;
   display: inline;
-  
 }
