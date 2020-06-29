@@ -88,7 +88,14 @@ a:hover{
   color: #26373D;
   margin: 0 auto;
 }
+
 .TT_1 {
+  background: #4D6E7A;
+    color: #ffffff;
+  margin: 0 auto;
+  text-align: center;
+}
+.TT_2 {
   background: #E0F4FB;
   color: #26373D;
   margin: 0 auto;
