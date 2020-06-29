@@ -37,7 +37,7 @@ head {
     text-align: center;
     font-size: 12pt;
     margin: 0 auto;
-    width: 18%;
+    width: 14%;
     height: auto;
     background-color: #4D6E7A;
     color: #ffffff;
@@ -51,7 +51,7 @@ head {
     text-align: center;
     font-size: 9pt;
     margin: 0 auto;
-    width: 16%;
+    width: 12%;
     height: auto;
     background-color: #4D6E7A;
     color: #ffffff;
@@ -125,7 +125,7 @@ a:hover{
 /*BOTONES*/
 button{
   float: top;
-  padding: 2px;
+  padding: 1px;
   border: -1px solid #5C8492;
   border-radius: 20px;
   width: auto;
