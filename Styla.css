@@ -21,14 +21,14 @@ head {
     h1 {
     font-family: Amethysta,'Times New Roman',serif;
     text-align: center;
-    font-size: 12pt;
+    font-size: 13pt;
     margin: 0 auto;
     width: 40%;
     height: auto;
     background-color: #E0F4FB;
     color: #26373D;
     border: 0.1px solid rgba(0, 0, 0, 0);
-    padding: 0.5px;
+    padding: 5px;
     border-radius: 20px;
     }
 
