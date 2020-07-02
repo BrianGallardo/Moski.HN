@@ -21,9 +21,9 @@ head {
     h1 {
     font-family: Amethysta,'Times New Roman',serif;
     text-align: center;
-    font-size: 13pt;
+    font-size: 10pt;
     margin: 0 auto;
-    width: 120%;
+    width: 50%;
     height: auto;
     background-color: #4D6E7A;
     color: #ffffff;
@@ -35,9 +35,9 @@ head {
     h2 {
     font-family: Amethysta,'Times New Roman',serif;
     text-align: center;
-    font-size: 12pt;
+    font-size: 9pt;
     margin: 0 auto;
-    width: 40%;
+    width: 34%;
     height: auto;
     background-color: #4D6E7A;
     color: #ffffff;
@@ -49,9 +49,9 @@ head {
     h3 {
     font-family: Amethysta,'Times New Roman',serif;
     text-align: center;
-    font-size: 9pt;
+    font-size: 6pt;
     margin: 0 auto;
-    width: 40%;
+    width: 28%;
     height: auto;
     background-color: #4D6E7A;
     color: #ffffff;
@@ -63,7 +63,7 @@ head {
     p {
     font-family: Amethysta,'Times New Roman',serif;
     text-align: justified;
-    font-size: 11pt;
+    font-size: 9pt;
     margin: 0 auto;
     background-color: transparent;
     color: #26373D;
@@ -153,6 +153,7 @@ button{
   padding: 3px solid;
   margin: 0 auto;
   margin-left: 1px;
+  margin-bottom: 4px;
   border: 0px solid #5C8492;
   display: inline-block;
   cursor: pointer;
