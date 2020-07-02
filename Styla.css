@@ -23,7 +23,7 @@ head {
     text-align: center;
     font-size: 10pt;
     margin: 0 auto;
-    width: 90%;
+    width: 450px;
     height: auto;
     background-color: #4D6E7A;
     color: #ffffff;
@@ -37,7 +37,7 @@ head {
     text-align: center;
     font-size: 9pt;
     margin: 0 auto;
-    width: 34%;
+    width: 90px;
     height: auto;
     background-color: #4D6E7A;
     color: #ffffff;
@@ -51,7 +51,7 @@ head {
     text-align: center;
     font-size: 6pt;
     margin: 0 auto;
-    width: 35%;
+    width: 90px;
     height: auto;
     background-color: #4D6E7A;
     color: #ffffff;
@@ -94,7 +94,7 @@ a:hover{
   color: #ffffff;
   margin: 0 auto;
   text-align: center;
-  max-width: 40%
+  max-width: 100px
 }
 .TT_2 {
   background: #E0F4FB;
