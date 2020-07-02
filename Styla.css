@@ -192,6 +192,19 @@ button{
   display: inline;
 }
 
+.MLOG img{
+  float: top;
+  padding: 3px;
+  border: 1px solid #5C8492;
+  width: auto;
+  height: auto;
+  max-height: 30px;
+  max-width: 55%;
+  margin: 0 auto;
+  background: transparent;
+  display: inline;
+}
+
 /*IMAGENES*/
 .IM img{
   float: top;
