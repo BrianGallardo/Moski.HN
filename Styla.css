@@ -187,9 +187,9 @@ button{
   border: 1px solid #5C8492;
   width: auto;
   height: auto;
-  max-height: 30px;
+  max-height: 35px;
   max-width: 55%;
-  margin: 0 auto;
+  margin: 5px;
   background: transparent;
   display: inline;
 }
