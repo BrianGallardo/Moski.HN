@@ -4,7 +4,7 @@ html {
     }
 
 body {
-    font-family: Amethysta,'Times New Roman',serif;
+    font-family: Amethysta, 'Times Sans Serif', sans-serif;
     background-color: transparent;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 10px;
@@ -12,20 +12,20 @@ body {
 
 
 head {
-    font-family: Amethysta,'Times New Roman',serif;
+    font-family: Amethysta, 'Times Sans Serif', sans-serif;
     background-color: transparent;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 10px;
     }
 
     h1 {
-    font-family: Amethysta,'Times New Roman',serif;
+    font-family: Amethysta, 'Times Sans Serif', sans-serif;
     text-align: center;
     font-size: 10pt;
     margin: 0 auto;
     max-width: 450px;
     height: auto;
-    background-color: #4D6E7A;
+    background-color: #32797B;
     color: #ffffff;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 5px;
@@ -33,13 +33,13 @@ head {
     }
 
     h2 {
-    font-family: Amethysta,'Times New Roman',serif;
+    font-family: Amethysta, 'Times Sans Serif', sans-serif;
     text-align: center;
     font-size: 9pt;
     margin: 0 auto;
     max-width: 90px;
     height: auto;
-    background-color: #4D6E7A;
+    background-color: #32797B;
     color: #ffffff;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 0.5px;
@@ -47,13 +47,13 @@ head {
     }
 
     h3 {
-    font-family: Amethysta,'Times New Roman',serif;
+    font-family: Amethysta, 'Times Sans Serif', sans-serif;
     text-align: center;
     font-size: 6pt;
     margin: 0 auto;
     max-width: 90px;
     height: auto;
-    background-color: #4D6E7A;
+    background-color: #32797B;
     color: #ffffff;
     border: 0.1px solid rgba(0, 0, 0, 0);
     padding: 0.5px;
@@ -61,7 +61,7 @@ head {
     }
 
     p {
-    font-family: Amethysta,'Times New Roman',serif;
+    font-family: Amethysta, 'Times Sans Serif', sans-serif;
     text-align: justified;
     font-size: 9pt;
     margin: 0 auto;
@@ -90,7 +90,7 @@ a:hover{
 }
 
 .TT_1 h2{
-  background: #4D6E7A;
+  background: #32797B;
   color: #ffffff;
   margin: 0 auto;
   text-align: center;
@@ -127,19 +127,19 @@ a:hover{
 button{
   float: top;
   padding: 1px;
-  border: -1px solid #5C8492;
+  border: -1px solid #035b5d;
   border-radius: 20px;
   width: auto;
   height: auto;
   max-height: 35px;
   margin: 0 auto;
-  background: #5C8492;
+  background: #035b5d;
   display: inline;
 }
 
 .BT {
   color: white;
-  background: #4D6E7A;
+  background: #035b5d;
   text-align: center;
   display: inline;
   line-height: 20px;
@@ -155,7 +155,7 @@ button{
   margin: 0 auto;
   margin-left: 1px;
   margin-bottom: 5px;
-  border: 0px solid #5C8492;
+  border: 0px solid #035b5d;
   display: inline-block;
   cursor: pointer;
   border-radius: 20px;
