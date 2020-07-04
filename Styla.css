@@ -1,5 +1,5 @@
 html {
-    background: #F4FBFD;
+    background: #193C3D;
     background-size: cover;
     }
 
@@ -106,21 +106,21 @@ a:hover{
 /*PARRAFOS ESPECIFICOS*/
 .PP p{
   background: #EAF8FC;
-  color: #26373D;
+  color: white;
   margin: 0 auto;
   text-align: justified;
 }
 
 .PP_1 p{
-  background: #E0F4FB;
-  color: #26373D;
+  background: #286061;
+  color: white;
   margin: 0 auto;
   text-align: center;
 }
 
 /*por si hay alteraciones*/
 .PP p{
-  color: #26373D;
+  color: white;
 }
 
 /*BOTONES*/
