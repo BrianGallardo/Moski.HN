@@ -184,7 +184,7 @@ button{
 .LOG img{
   float: right;
   padding: 1px;
-  border: 1px solid #5C8492;
+  border: 1px transparent;
   width: auto;
   height: auto;
   max-height: 27px;
